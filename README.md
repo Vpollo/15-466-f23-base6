@@ -1,10 +1,8 @@
-# (TODO: your game's title)
+# Hide & Seek
 
-Author: (TODO: your name)
+Author: Ziyu Li
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
-
-Networking: (TODO: How does your game implement client/server multiplayer? What messages are transmitted? Where in the code?)
+Design: I did not finish this game (sad pikahu face). It is supposed to be like my blind sound wave game but played with 2 players, where they can see each other only via footsteps, and you can use spacebar to catch the other plater.
 
 Screen Shot:
 
@@ -12,9 +10,7 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
-
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+WASD to move.
 
 This game was built with [NEST](NEST.md).
 
